@@ -31,7 +31,7 @@ function animate(moves){
  showBars(move);
  setTimeout(function() {
      animate(moves);
- }, 25);
+ }, 250);
 }
  
 
